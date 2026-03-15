@@ -1,0 +1,28 @@
+﻿@font-face {
+    font-family: 'Barloesius Schrift';
+    src: url('BarloesiusSchrift.woff2') format('woff2'),
+        url('BarloesiusSchrift.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caslon Antique';
+    src: url('CaslonAntique.woff2') format('woff2'),
+        url('CaslonAntique.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.Titles {
+	font-family: "Barloesius Schrift";
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+.BodyText {
+	font-family: "Caslon Antique";
+	font-size: x-large;
+	color: #FFFFFF;
+}
